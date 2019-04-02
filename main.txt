@@ -1,0 +1,2 @@
+The purpose of this project/repository is not to write code but determine how to perform source control using github.
+I'm now signed as cpijnenb (second account).
