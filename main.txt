@@ -1,2 +1,5 @@
 The purpose of this project/repository is not to write code but determine how to perform source control using github.
 I'm now signed as cpijnenb (second account).
+
+After adding 2 lines as cpijnenb and commiting the lines to the master branch as kpijnenb
+I'm going to commit these changes too
