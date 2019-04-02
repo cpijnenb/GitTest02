@@ -3,3 +3,9 @@ I'm now signed as cpijnenb (second account).
 
 After adding 2 lines as cpijnenb and commiting the lines to the master branch as kpijnenb
 I'm going to commit these changes too
+
+Third chage by cpijnenb made to main.txt. stil using just the masterbranche.
+Next test: save changes as new branch, cpijnenb (original created of the file/branch)
+
+logged in as kpijnenb and working in the GitTest02 repository
+still in the original (master) branch
